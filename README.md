@@ -37,3 +37,6 @@ THEN I should have proper build scripts for a webpack application
 
 # GitHub Repository URL  
 https://github.com/prestontravis/text-editor  
+
+# Deployed Application URL  
+https://prestontravis.github.io/text-editor/  
